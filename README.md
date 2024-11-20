@@ -5,29 +5,18 @@ I am **Vijay Takbhate**, a Machine Learning and AI enthusiast with a deep passio
 
 ---
 
-## 🌐 **Let's Connect**  
-<div align="center">  
-<a href="https://www.linkedin.com/in/vijay-takbhate-b9231a236/?trk=PROFILE_DROP_DOWN">
-  <img src="linkedin-placeholder.png" alt="LinkedIn" width="50" height="50">
-</a>  
-<a href="https://github.com/vijaytakbhate2002">
-  <img src="github-placeholder.png" alt="GitHub" width="50" height="50">
-</a>  
-<a href="https://www.kaggle.com/vijay20213">
-  <img src="kaggle-placeholder.png" alt="Kaggle" width="50" height="50">
-</a>  
-</div>  
-
----
-
 ## 🔧 **Technical Skills**  
 <div align="center">  
-<img src="python-placeholder.png" alt="Python" width="50" height="50">  
-<img src="sql-placeholder.png" alt="SQL" width="50" height="50">  
-<img src="flask-placeholder.png" alt="Flask" width="50" height="50">  
-<img src="streamlit-placeholder.png" alt="Streamlit" width="50" height="50">  
-<img src="docker-placeholder.png" alt="Docker" width="50" height="50">  
-<img src="pyspark-placeholder.png" alt="PySpark" width="50" height="50">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" height="50">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50">  
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50">  
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="PySpark" height="50">  
+  <img src="https://drive.google.com/uc?export=view&id=13BDBQaq2HpxYK5tVbv5vhT86CLDcM5sx" alt="Databricks" height="50">  
+  <img src="https://github.com/user-attachments/assets/0735e042-2178-478b-bf02-493a6f4f255c" alt="Google Cloud Platform" height="50">  
+  <img src="https://github.com/user-attachments/assets/63d5e52f-9385-4ec5-a300-43bc0f61d070" alt="MLflow" height="50">  
+  <img src="https://github.com/user-attachments/assets/352d92fb-4b0d-454a-aacb-465dff41a391" alt="TensorFlow" height="50">  
 </div>  
 
 ---
@@ -63,5 +52,20 @@ I am **Vijay Takbhate**, a Machine Learning and AI enthusiast with a deep passio
 > Dive into the mathematical foundations of machine learning, with a focus on **matrix operations** and their pivotal role in ML algorithms.  
 
 ---
+## 🌐 **Let's Connect**  
+<div align="center">  
+  <a href="https://www.linkedin.com/in/vijay-takbhate-b9231a236/?trk=PROFILE_DROP_DOWN" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1c2fb965-55e6-45bc-a7fa-75031cd44cb3" alt="LinkedIn" height="50">
+  </a>  
+  <a href="https://github.com/vijaytakbhate2002" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50">
+  </a>  
+  <a href="https://www.kaggle.com/vijay20213" target="_blank">
+    <img src="https://github.com/user-attachments/assets/273fa337-58c9-4da4-ba55-95b6d72eb95c" alt="Kaggle" height="50">
+  </a>  
+  <a href="https://www.youtube.com/c/DeepNeural" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ba2c08fc-a203-43a1-9712-f5ee5c985e6e" alt="YouTube" height="50">
+  </a>  
+</div>  
 
 ⭐️ **Explore my repositories and let's collaborate on impactful projects!**
