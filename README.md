@@ -36,6 +36,40 @@ I am **Vijay Takbhate**, a Machine Learning and AI enthusiast with a deep passio
   - 📚 **Content summarization**  
 - Built with **Flask** and integrated with a **cloud database** for efficient deployment.  
 
+
+---
+## 📝 **Top Kaggle Notebooks**
+
+### 1️⃣ [Healthy Fast Foods: KMeans and Visualization](https://www.kaggle.com/code/vijay20213/healthy-fast-foods-kmeans-and-visualization)
+
+| Project Image | Description |
+|---------------|-------------|
+| [![Healthy Fast Foods: KMeans and Visualization](https://github.com/user-attachments/assets/8ae1f883-45c3-427e-855a-484abc29a830)](https://www.kaggle.com/code/vijay20213/healthy-fast-foods-kmeans-and-visualization) | This project demonstrates KMeans clustering on healthy fast food data and visualizes the results using Python's Scikit-learn and Matplotlib. |
+  
+### 2️⃣ [Cancer Prediction with 98% Accuracy](https://www.kaggle.com/code/vijay20213/cancer-prediction-with-98-accuracy)
+
+| Project Image | Description |
+|---------------|-------------|
+| [![Cancer Prediction with 98% Accuracy](https://github.com/user-attachments/assets/7fdb7d52-d008-4798-9e88-32ccb2c4ff0b)](https://www.kaggle.com/code/vijay20213/cancer-prediction-with-98-accuracy) | In this project, a machine learning model is trained to predict cancer with 98% accuracy using logistic regression and feature engineering. |
+
+### 3️⃣ [Pneumonia Detection with CNN and ML with 98% Accuracy](https://www.kaggle.com/code/vijay20213/pneumonia-detection-with-cnn-and-ml-with-98-acc)
+
+| Project Image | Description |
+|---------------|-------------|
+| [![Pneumonia Detection with CNN and ML with 98% Accuracy](https://github.com/user-attachments/assets/e77f1bf0-0be9-44a9-8385-1bf2b838a4c3)](https://www.kaggle.com/code/vijay20213/pneumonia-detection-with-cnn-and-ml-with-98-acc) | This project uses Convolutional Neural Networks (CNN) to accurately detect pneumonia from chest X-ray images with 98% accuracy. |
+
+### 4️⃣ [Stress Identification: NLP with Best Prediction](https://www.kaggle.com/code/vijay20213/stress-identification-nlp-with-best-prediction)
+
+| Project Image | Description |
+|---------------|-------------|
+| [![Stress Identification: NLP with Best Prediction](https://github.com/user-attachments/assets/7dfbf9b6-c4e6-4bfa-bb03-e91224dab3c4)](https://www.kaggle.com/code/vijay20213/stress-identification-nlp-with-best-prediction) | A natural language processing (NLP) project aimed at identifying stress levels from text data using machine learning techniques. |
+
+### 5️⃣ [Activity Monitoring System Prediction - EDA](https://www.kaggle.com/code/vijay20213/activity-monitoring-system-prediction-eda)
+
+| Project Image | Description |
+|---------------|-------------|
+| [![Activity Monitoring System Prediction - EDA](https://github.com/user-attachments/assets/c937f0db-0a1a-4411-9ba9-7de74ab81e2d)](https://www.kaggle.com/code/vijay20213/activity-monitoring-system-prediction-eda) | This project focuses on exploratory data analysis (EDA) for predicting human activities using sensor data. |
+
 ---
 
 ## ✍️ **Blogs**  
